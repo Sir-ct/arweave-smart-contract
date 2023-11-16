@@ -1,0 +1,21 @@
+{
+  "name": "arweave-contract",
+  "version": "1.0.0",
+  "description": "A test contract posted on arweave blockweave, the contract can be likened to a backend logic for a blog, where we are able to read, create, update and probably delete posts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "arweave",
+    "blockweave",
+    "blockchain",
+    "blog"
+  ],
+  "author": "Onyeka Ogbusuo",
+  "license": "ISC",
+  "dependencies": {
+    "warp-contracts": "^1.4.23",
+    "warp-contracts-plugin-deploy": "^1.0.11"
+  }
+}
